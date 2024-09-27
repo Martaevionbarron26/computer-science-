@@ -1,0 +1,17 @@
+# Once upone a time in a [domacile].
+# There lived a [mythical creature].
+# Every day the [mythical creatute] wold [verb] .
+# one day the (methical creature) (fond a place) (appered).
+#threw the (floor) the (giant)screamed.
+# Giant was (stuck) in the batroom (crying) to his mom got home.
+
+
+domacile = input("Enter a type of domacile\n>")
+creature = input("Enter a mythical creature\n>")
+yell= input("enter a yell")
+place = input("enter a place")
+stolenitem =  input("stolen item")
+
+print(" once open a time an abanden " + domacile + " people all ways thought that a " + creature + " they had heard a " + yell + " but one day he came out of " + place + " when came he liked red alot so he " + stolenitem)
+
+
