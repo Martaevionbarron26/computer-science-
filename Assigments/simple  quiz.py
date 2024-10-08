@@ -1,3 +1,19 @@
+#string functions
+# String fuctions are a grope of functions that motify strings 
+# .Lower()
+# .Lowr() changes the string to all lowercase
+# upper()changes sting to all uppercase
+# .captilize() CHANGES EVERY THING TO lower case then capitalize the first letter
+# .tittle()changes the entire string to titlecase (capital first letter on eachword)
+#"hellow world" > "Hellow World"
+
+#swapcase()inverts the capilization of each case
+# "helow world!" > "hELLO wORLD!"
+x = "lor of the rings".lower()
+x = x.lower
+
+
+print(x)
 print("simple quiz")
 tall_score = 0
 
